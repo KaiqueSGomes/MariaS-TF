@@ -21,7 +21,7 @@
         .nav-left{
             display: flex;            
             margin-top: 30px;
-            margin-left: 40px;
+            margin-left: 78px;
 
             img{
                 width: 100px;
@@ -37,13 +37,25 @@
             margin-right: 10px;
         }
         .banner{
-            height: 55 px;
+            height: 55  px;
             background-color: #dfdfdf;
             display: flex;
             align-items: center;
             justify-content: center;
             font-size: 28px;
         }
+        .img1{
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            img{
+                width: 1300px;
+                height: 1000px;
+            }
+        }
+        .sobre-nos
+
+
         a{
             color: #dfdfdf;
             text-decoration: none;   

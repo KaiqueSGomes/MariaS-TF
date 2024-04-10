@@ -22,7 +22,7 @@ body {
 .nav-left {
   display: flex;
   margin-top: 30px;
-  margin-left: 40px;
+  margin-left: 78px;
 }
 .nav-left img {
   width: 100px;
@@ -48,7 +48,17 @@ body {
   font-size: 28px;
 }
 
-a {
+.img1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.img1 img {
+  width: 1300px;
+  height: 1000px;
+}
+
+.sobre-nos a {
   color: #dfdfdf;
   text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
