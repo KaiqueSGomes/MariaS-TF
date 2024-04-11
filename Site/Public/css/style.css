@@ -118,6 +118,12 @@ body {
 .bg-footer .redes {
   margin-left: 330px;
 }
+.bg-footer .footer-icons {
+  margin-top: 20px;
+}
+.bg-footer .footer-icons i {
+  width: 1000px;
+}
 
 a {
   color: #dfdfdf;
