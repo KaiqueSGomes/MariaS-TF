@@ -15,6 +15,7 @@ body {
   position: fixed;
   z-index: 1;
   padding-inline: 16px;
+  top: 0;
 }
 
 .container {
@@ -54,7 +55,7 @@ body {
 .img1 {
   display: flex;
   justify-content: center;
-  margin-top: 10px;
+  margin-top: 150px;
 }
 .img1 img {
   width: 1300px;
