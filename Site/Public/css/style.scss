@@ -9,36 +9,35 @@
         body{
             background-color: #dfdfdf;
         }
-        .bg-nav{
-            background-color: $normal-pink;
-            height: 90px;
-        }
-        .container{
+        .bg-nav {
+            background-color: #f70a71;
+            width: 100%;
+            position: fixed;
+            z-index: 1;
+            padding-inline: 16px;
+          }
+          .container {
             display: flex;
             justify-content: space-between;
-
-        }
-        .nav-left{
-            display: flex;            
-
-            margin-left: 40px;
-
-            img{
-                width: 110px;
-                height: 95px;
-            }
-        }
-        .nav-right{
+          }
+          
+          .nav-left {
+            display: flex;
+          }
+          .nav-left img {
+            width: 110px;
+            height: 95px;
+          }
+          
+          .nav-right {
             display: flex;
             margin-top: 30px;
-            margin-right: 40px;
-
-            a{
-                font-size: 20px;
-                color: $normal-blue;
-                margin-right: 10px;
-            }
-        }
+          }
+          .nav-right a {
+            font-size: 20px;
+            color: #000086;
+            margin-right: 10px;
+          }
 
         .banner{
             height: 55px;

@@ -16,6 +16,7 @@ body {
   z-index: 1;
   padding-inline: 16px;
 }
+
 .container {
   display: flex;
   justify-content: space-between;
@@ -24,6 +25,7 @@ body {
 .nav-left {
   display: flex;
 }
+
 .nav-left img {
   width: 110px;
   height: 95px;
@@ -33,6 +35,7 @@ body {
   display: flex;
   margin-top: 30px;
 }
+
 .nav-right a {
   font-size: 20px;
   color: #000086;
